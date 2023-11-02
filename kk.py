@@ -12,3 +12,7 @@ class pipi():
 
 class popo():
 	pass
+
+
+class qwoe():
+	print("MOLA")
