@@ -12,3 +12,6 @@ class pipi():
 
 class popo():
 	pass
+
+class mmmmm():
+	n = 2+2
