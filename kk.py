@@ -5,3 +5,7 @@ class mariconada():
 class chorrerida():
 	print("MOLA")
 	pass
+
+
+class pipi():
+	pass
