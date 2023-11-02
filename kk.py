@@ -1,4 +1,4 @@
-class mariconada():
+lass mariconada():
 	print("OLE")
 	pass
 
@@ -15,3 +15,7 @@ class popo():
 
 class mmmmm():
 	n = 2+2
+
+class qwoe():
+	print("MOLA")
+
