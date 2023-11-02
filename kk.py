@@ -9,3 +9,6 @@ class chorrerida():
 
 class pipi():
 	pass
+
+class popo():
+	pass
